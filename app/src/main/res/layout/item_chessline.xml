@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:background="#123">
+
+    <com.rindangseptyan.chesschalenge.view.BoxContainer
+        android:id="@+id/boxA"
+        style="@style/box" />
+
+    <com.rindangseptyan.chesschalenge.view.BoxContainer
+        android:id="@+id/boxB"
+        style="@style/box" />
+
+    <com.rindangseptyan.chesschalenge.view.BoxContainer
+        android:id="@+id/boxC"
+        style="@style/box" />
+
+    <com.rindangseptyan.chesschalenge.view.BoxContainer
+        android:id="@+id/boxD"
+        style="@style/box" />
+
+    <com.rindangseptyan.chesschalenge.view.BoxContainer
+        android:id="@+id/boxE"
+        style="@style/box" />
+
+    <com.rindangseptyan.chesschalenge.view.BoxContainer
+        android:id="@+id/boxF"
+        style="@style/box" />
+
+    <com.rindangseptyan.chesschalenge.view.BoxContainer
+        android:id="@+id/boxG"
+        style="@style/box" />
+
+    <com.rindangseptyan.chesschalenge.view.BoxContainer
+        android:id="@+id/boxH"
+        style="@style/box" />
+</LinearLayout>
